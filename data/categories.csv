@@ -1,0 +1,119 @@
+CATEGORY_ID,PRODUCT_CATEGORY,IS_CHILD_CATEGORY_TO
+1f7d2fa7-a1d7-4969-aaf4-1244f232c175,Red Pasta Sauce,Pasta Sauce
+3e48a9b3-1ab2-4f2d-867d-4a30828afeab,Alfredo & White Pasta Sauce,Pasta Sauce
+09f3decc-aa93-460d-936c-0ddf06b055a3,Cooking & Baking,Pantry
+12a89b18-4c01-4048-94b2-0705e0a45f6b,Packaged Seafood,Pantry
+2caa015a-ca32-4456-a086-621446238783,Feminine Hygeine,Health & Wellness
+4b618ce0-9a8a-4a1d-aef6-885ee5d37163,Leafy Salads,Deli & Bakery
+3a767143-5a9b-4244-893b-e370b9c27eda,Cream,Dairy
+01edb86e-b0b3-41c9-a756-2914b850157d,Coffee,Beverages
+07234dce-81dd-4b99-9aa7-3a4a1e17c50a,Frozen Fruits,Frozen
+2a2ad3c4-41df-484c-833c-26744a4d9610,Nut Butters & Jam,Pantry
+38160828-1029-4505-9849-673773c5fad3,Frozen Desserts,Frozen
+3599926f-2517-42cf-8d66-395a1cd73809,Decor,Home & Garden
+1e63bbb5-d0b8-4dca-9eb1-121967de8dc8,Candy,Snacks
+44fbc64b-4a38-4bc7-a80c-d11c821eb3e4,"Cereal, Granola, & Toaster Pastries",Pantry
+aefdb531-584e-4f9e-a7a1-6ed002519aa1,Frozen Sides,Frozen
+7b809583-296a-47b3-8a73-01b08b2cfd15,Dairy Alternatives,Dairy
+b017bef1-50f6-444b-8fb3-77aa8dbb48a3,Meal Replacement Beverages,Beverages
+e2600179-20fc-4d9e-8cfe-7a564a3e4518,Pretzels,Snacks
+f66f4433-e6ec-483c-95b4-8114d70aae34,Snack Mixes,Snacks
+f72793bd-721f-4d0f-8086-3b211446dd4b,Frozen Meals,Frozen
+9d636ced-b5e6-4a53-84a3-12ce20ac598b,Frozen,Frozen
+4b14a562-d567-4e40-8042-561f4556fd4c,Dairy,Dairy
+0d566b71-e49a-4b83-a340-25b921e8437f,Baby Bathing,Baby & Toddler
+1f01bdf4-7c65-4995-adfb-9080b75b0129,Condiments,Pantry
+1880d713-83b1-4d45-80d6-4d0129d7b758,Packaged Meals & Sides,Pantry
+451e3832-bc4c-4dd3-bbbb-5e33d134a765,Dips & Salsa,Snacks
+6c9b520a-9049-417a-8487-7053b9d2d8f8,Crackers,Snacks
+630680d7-ca78-4e91-b27d-e90afa21df2f,Potty Training,Baby & Toddler
+a55443a3-8852-4b1c-818b-10046614496c,Household Cleaning Supplies,Household Supplies
+a3ef4899-2bd2-4cac-bb31-a46ef1169c8c,Beer,Alcohol
+c1348b24-5f57-4ad6-bc81-a114368acb19,Soup & Broth,Pantry
+b5fd081f-4671-4eb9-97be-3c55079fc52d,Vegetable Juices,Beverages
+d35b8bc0-79e9-40d7-ab7b-587acaf59aa0,Baby Safety,Baby & Toddler
+dd9dfdb2-fa2e-4f6a-b234-c9518212c718,Toothpaste,Oral Care
+2e390809-d293-43d2-bfa3-56b06d24b3e1,Rum,Spirits
+2c76a708-0d08-441a-9ca7-5827d32ce032,Sexual Health,Health & Wellness
+6b770f8d-09b5-4491-8bbb-31ee38645b20,Malt Beverages,Alcohol
+bd2e2509-b9bb-4c08-bf4b-c947b5eedd46,Diapering,Baby & Toddler
+bf14b0ad-9e1c-4adb-953d-e459ef8d4821,Dessert Toppings,Snacks
+d5cba6a8-9ac7-40dd-9692-f9e890a48ca4,"Hard Seltzers, Sodas, Waters, Lemonades & Teas",Alcohol
+b06d9098-f313-4ba8-88aa-a001db2759d8,Hard Ciders,Alcohol
+e246975c-322e-4e31-aa4b-a22eabe581d1,Yogurt,Dairy
+87b8ae7a-5a8b-43f1-a4ee-a1fdb3bc068c,Household Supplies,Household Supplies
+e8d9c191-47c0-46eb-affd-34b08a44ebbc,Dry Pasta,Pasta & Noodles
+4d1a5602-1df0-4000-8025-cc73142c486f,Popcorn,Puffed Snacks
+84011112-b553-402a-9950-998bf7affd63,Drink Mixes,Beverages
+3dcfe6dc-3445-4ba7-b11e-8238a5d41be7,Puffed Snacks,Snacks
+867f38b4-3abe-4717-860b-fb734c817197,Jerky & Dried Meat,Snacks
+998b0374-9bf6-4b9a-a285-431f5afc232d,Deli Counter,Deli & Bakery
+e3b6f1f0-de8b-4625-b678-56cfd8747cbe,Milk,Dairy
+ca1c0f4d-3efc-4978-8357-69862996f416,Wine,Alcohol
+f1a38ab2-67a0-4863-9802-2b16a181e722,Bread,Pantry
+f78c4b56-a1a6-4972-a0b3-6514ad98fd27,Tea,Beverages
+e88983eb-6ae9-40e6-97a9-e77a2294c3fe,Sauces & Marinades,Pantry
+dc7b8939-091d-43c0-bd23-454be9e4995a,Pest Control,Household Supplies
+b7588815-8b82-46c4-aa05-cc96a0d1524d,Energy Drinks,Beverages
+c7f51b3a-c2a6-4818-93cf-9cfbd58c2622,Chips,Snacks
+e27d28fb-5e48-49b6-9373-3a92246c2f87,Nuts & Seeds,Snacks
+ee7d461c-afec-4dd8-b06e-c3de3ea040fe,Cookies,Snacks
+f7d6a180-a33e-4a1e-bdca-5c7bd498703b,Foot Care,Health & Wellness
+79e71bb6-c6f8-4782-9e2c-aa535c8d06d7,Vodka,Spirits
+03577242-2690-4bad-916c-eb7d6c2e0ee2,Deodorant & Antiperspirant,Health & Wellness
+5d4a0ce8-cc6b-4b18-bf36-d35026ec60ec,Food Storage,Household Supplies
+0619fda2-db1e-42c4-87ef-457ae91fca72,Cheese,Dairy
+0b5e15f3-f1ee-40fe-9e81-cac225799ebe,Frozen Vegetables,Frozen
+28c3d049-7728-41c4-8933-fc8c2f223ca0,Trail Mix,Snacks
+298b0773-27c7-4538-8bbe-a84c591b6714,Packaged Fruit & Applesauce,Pantry
+0a09521d-71e3-40b7-bd43-0e3654e91b2b,Skin Care,Health & Wellness
+83bc0b06-a0c0-438e-a14a-36a5f28db6f9,Ice,Frozen
+abe5c72f-1b1e-4d84-876a-bb584260c247,Oral Care,Health & Wellness
+cf3de8d5-b587-47b9-9720-2f89d2a2a85a,Butter & Margarine,Dairy
+aecbba3a-7958-4b78-8a93-9215b963e9a7,Water,Beverages
+d8cb60e5-b0c6-478a-971d-c6c55b17831f,Plant-Based Meat,Meat & Seafood
+d45a8f68-34d2-4128-a807-7b4fcf119a17,Eggs,Dairy
+111bf216-d1df-4251-98b2-7bfa441d1bc0,Fresh Pasta,Pasta & Noodles
+0f6c46e7-8a8c-422e-8005-7d178a688da5,Fruit & Vegetable Snacks,Snacks
+205263da-67db-463e-937e-cd335a957680,Frozen Breads & Doughs,Frozen
+5f2f147b-f2a2-48ed-bac4-ba1be2df09ec,Bakery,Deli & Bakery
+16b45293-45ba-4121-bc5c-605c7fa3c510,Cosmetic Tools,Beauty
+1f782a22-5092-48ab-907c-847bf2fd4468,Laundry Supplies,Household Supplies
+7445be6b-29f8-4abb-a35f-8df1c8ad87c4,Frozen Pizza & Pizza Snacks,Frozen
+4442fa51-d4b7-4d56-ad7c-d18cfd2aff84,Tobacco Products,Mature
+2def9983-9d56-4872-a5b9-7aa8bbc2331c,Spirits,Alcohol
+7414fc82-da85-4772-8c52-6067b369b780,Frozen Breakfast,Frozen
+88c7367b-3042-48ee-aa6a-b057b244d095,Dog Supplies,Animals & Pet Supplies
+ab6e6ea5-ff5d-4fe8-9866-4b1efcec2d4e,Pickled Goods,Pantry
+397f9b41-5196-4e19-96e1-e8783201b375,Prepared Meals,Deli & Bakery
+7e7acdb5-8e15-4a5f-9d89-b71841ac9ab8,Eye Care,Health & Wellness
+a2108cb6-b451-46ae-997b-a11bc7ab213a,Dressings,Pantry
+a6e7094e-57a5-48f9-8fe8-ca663356e5cb,First Aid,Health & Wellness
+e73f7957-0e65-4466-9588-795bdc5f67ac,Packaged Meat,Pantry
+e9535290-dc96-45be-bd4a-6e687880a059,Hair Care,Health & Wellness
+de2afc5c-93c3-4c35-bee8-16ca97d1c9f3,Makeup,Beauty
+e1e81d2f-3a40-497c-99c8-2ae28e979e25,Pesto Sauce,Pasta Sauce
+bd33436d-a5de-4fd6-90f1-4f1fb4db0189,Sports Drinks,Sports Drinks & Enhanced Waters
+539953fe-50bf-4a00-8a21-c64752d6ed7e,Hair Removal,Health & Wellness
+a9710fa3-a33a-4a0c-9d80-9280f0a10977,Pasta & Noodles,Pantry
+87459c51-6dc1-4064-9fb4-51e399187f2c,Fruit Juices,Beverages
+d8fe1321-9ea7-4ea3-846b-8bd292e5f693,Nail Care,Beauty
+ef70e81c-e88f-419c-9cb4-c008ae0eb29a,Packaged Vegetables,Pantry
+04d628dc-8630-4f8e-835f-831cd0aaf036,Body Fragrances,Beauty
+2817339f-b657-4b96-a7dc-c35b8ec78f3e,Baby Health,Baby & Toddler
+8587bef6-5b06-47d6-99b3-8c0b12e2c744,Adult Incontinence,Health & Wellness
+1b73d119-48ec-4d6b-97df-f93a9b4f1003,Snack Cakes,Snacks
+47fae368-9b64-40be-82c9-898f953e9d66,Bath & Body,Health & Wellness
+8e0a9431-5462-4810-9f65-68fe36adf454,Frozen Plant-Based Meat,Frozen
+10fb25a2-7e2f-4a7d-8976-f11b700d6e47,Refrigerated Doughs,Dairy
+91d3f006-deed-4553-83bb-1719543a1689,Rice & Grains,Pantry
+b3028295-932d-49df-afbc-52dce9cce8c7,Carbonated Soft Drinks,Beverages
+88b3d152-85ef-4f2e-b90b-e63870c353de,Pudding & Gelatin,Snacks
+d45c0d30-af85-4eda-b5ed-ae6a38bfeed3,Medicines & Treatments,Health & Wellness
+f1ba6c83-50d3-4484-b031-6d0ca9071d81,Frozen Appetizers,Frozen
+f81d7064-52da-4bd7-98eb-7a14be267720,Mature,Mature
+0b039c0e-d33d-4356-b57b-83352d98623f,Frozen Turkey,Frozen Meat
+3b79dd23-c298-4429-b9bf-ce5803b594eb,Frozen Chicken,Frozen Meat
+7fbb4211-de07-4074-b359-aea21a7ad50c,Frozen Beef,Frozen Meat
+a9ace557-fce3-4eec-9536-0e4b399987b7,Frozen Seafood,Frozen Meat
+c99c5725-4d9b-404a-8438-5cf1dc4f12c3,Gum,Candy
